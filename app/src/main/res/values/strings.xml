@@ -16,8 +16,10 @@
     <string name="next">Siguiente</string>
     <string name="previous">Anterior</string>
 
-    <string name="hello_first_fragment">Aceleración X: 0.0\nAceleración Y: 0.0\nAceleración Z: 0.0</string>
+    <string name="data_first_frag_Giro">Gy X: 0.0\nGy Y: 0.0\nGy Z: 0.0</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="start">Empezar</string>
     <string name="mensajeh">Horizontal</string>
+    <string name="data_first_frag_Acel">Acel X: 0.0\nAcel Y: 0.0\nAcel Z: 0.0</string>
+    <string name="mensajem">Quieto</string>
 </resources>
